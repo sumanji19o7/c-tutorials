@@ -1,4 +1,7 @@
 #include <stdio.h>
+
+// cases example
+
 int main(){
     printf("enter 1-mon,2-tue...: ");
     int day;
